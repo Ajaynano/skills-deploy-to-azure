@@ -24,7 +24,7 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 16
-      - run: build
+      - run: npm build
       - uses: actions/upload-artifact@v3
         with:
           name: webpack artifacts
