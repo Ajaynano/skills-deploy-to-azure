@@ -10,7 +10,7 @@ env:
   ### Replace <username> with GitHub username ###
   ###############################################
   DOCKER_IMAGE_NAME: Ajaynano-azure-ttt
-  AZURE_WEBAPP_NAME: Ajaynano-ttt-app
+  AZURE_WEBAPP_NAME: Ajaynano2-ttt-app
   ###############################################
 
 jobs:
